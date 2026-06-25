@@ -22,14 +22,16 @@
 
 # 🎥 Demo Videos
 
-### ▶️ Complete System Demo
-**[Watch Demo](YOUR_LINK_1)**
-
 ### ▶️ Suicide Intervention Demo
-**[Watch Demo](YOUR_LINK_2)**
+**[Watch Demo]([YOUR_LINK_2](https://drive.google.com/file/d/1xWJ0GBVBCoWYns7XgDb9MEP8xMLXKSeb/view?usp=drive_link))**
 
-### ▶️ Emotion Detection Demo
-**[Watch Demo](YOUR_LINK_3)**
+### ▶️ Suicide Helpline Calling Demo
+**[Watch Demo]([YOUR_LINK_3](https://drive.google.com/file/d/1YTwmBZe5FVeL_jwldi-eLSFxvCMmUSLX/view?usp=drive_link))**
+
+### ▶️ Normal Chat Demo
+**[Watch Demo]([YOUR_LINK_1](https://drive.google.com/file/d/1OaJRj3pN78QTD8fKtQFgDgcQKfKhkDoL/view?usp=drive_link))**
+
+
 
 ---
 
@@ -286,7 +288,7 @@ National Institute of Technology Tiruchirappalli
 
 📧 yuvraj.singh.nitt@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn: [linkedin.com/in/yuvraj-singh-37a70b2a0](https://www.linkedin.com/in/yuvraj-singh-37a70b2a0)
 
 ---
 
