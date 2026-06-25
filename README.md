@@ -284,12 +284,9 @@ M.Sc. Computer Science
 
 National Institute of Technology Tiruchirappalli
 
-📧 your-email@gmail.com
+📧 yuvraj.singh.nitt@gmail.com
 
 🔗 LinkedIn
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
